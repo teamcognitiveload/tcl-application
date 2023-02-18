@@ -17,6 +17,7 @@ dependencies {
     implementation("io.micronaut:micronaut-validation")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-jackson-databind")
+    implementation("io.micronaut.views:micronaut-views-thymeleaf")
     annotationProcessor("io.micronaut:micronaut-http-validation")
 
     // security
