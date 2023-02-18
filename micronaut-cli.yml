@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.teamcognitiveload
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, assertj, email-sendgrid, flyway, gitlab-workflow-ci, gradle, http-client, jackson-databind, java, java-application, jdbc-hikari, jib, jooq, junit, lombok, management, micrometer, micrometer-elastic, micrometer-prometheus, micronaut-build, mockito, netty-server, postgres, properties, readme, security, security-annotations, security-jwt, security-oauth2, shade, slf4j-simple, testcontainers]
